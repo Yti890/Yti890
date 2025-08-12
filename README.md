@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yti890</h1>
 <h3 align="center">I upload to Github whatever I consider necessary or simply want to.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yti890&label=Profile%20views&color=0e75b6&style=flat" alt="yti890" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yti890" alt="yti890" /></a> </p>
 
 - 🔭 I’m currently working on [DiscordIntegration](https://github.com/Yti890/DiscordIntegration)
