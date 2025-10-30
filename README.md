@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yti890" alt="yti890" /></a> </p>
 
-- 🔭 I’m currently working on [DiscordIntegration](https://github.com/Yti890/DiscordIntegration)
+- 🔭 I’m currently working on [DiscordIntegration](https://github.com/Yti890/DiscordIntegration) and [Discord-Module](https://github.com/Yti890/Discord-Module)
 
 - 🌱 I’m currently learning **C#**
 
